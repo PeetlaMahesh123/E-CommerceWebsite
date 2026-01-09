@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f5f5f5;
+}
+
+
+.navbar {
+  background: #222;
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+
+.hero {
+  background: url("../images/hero.png") center/cover;
+  height: 300px;
+  text-align: center;
+  color: white;
+  padding-top: 100px;
+}
+
+.hero button {
+  padding: 10px 25px;
+  font-size: 16px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+
+.section-title {
+  text-align: center;
+  margin: 30px 0;
+}
+
+
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.product {
+  background: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.product img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
+
+.product button {
+  background: black;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+
+.services {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin: 40px 0;
+}
+
+.services img {
+  width: 60px;
+}
+
+
+.total {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
