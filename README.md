@@ -16,7 +16,10 @@ This project demonstrates basic concepts of web development such as UI design, p
 - Responsive design
 
 ---
+## 🚀 Final Result
+<img width="1906" height="872" alt="image" src="https://github.com/user-attachments/assets/3246ccbe-f4c2-40fd-9fb4-5bd47fc4a000" />
 
+---
 ## 🛠️ Technologies Used
 - HTML  
 - CSS  
