@@ -1,6 +1,5 @@
 
 
-# 🛒 Simple E-Commerce Website
 
 A simple E-Commerce web application that allows users to browse products, view product details, add items to a cart, and place orders.  
 This project demonstrates basic concepts of web development such as UI design, product listing, and cart management.
